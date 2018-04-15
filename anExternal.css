@@ -1,0 +1,11 @@
+#picture {
+	float:right;
+	border-radius: 25px;
+    padding: 20px; 
+	border: 20px solid;
+	width: 500px;
+	height: 500px;
+}
+h3{
+	color: green;
+}
